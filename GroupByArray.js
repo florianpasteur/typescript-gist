@@ -66,3 +66,5 @@ class GroupByArray {
         return Array.from(this.map.keys());
     }
 }
+
+module.exports = GroupByArray
